@@ -46,10 +46,10 @@ async def chatbot(client, message):
     await alexaai.edit("**ɪ ᴀᴍ ᴅᴏɪɴɢ ᴍʏ ʟᴏᴠᴇ 💕**")
     await alexaai.delete()
     await asyncio.sleep(2)
-    umm = await message.reply_sticker("CAACAgIAAxkBAAEForNjAykaq_efq4Wd-9KZv-nNxJRn3AACIgMAAm2wQgO8x8PfoXC1eCkE")
+    umm = await message.reply_sticker("CAACAgUAAx0Cb3S_agAC5f5kvPFH8NXNLjRBWnAmI77d2VTAxgACywwAAl4T6FWb4uy8XHOfih4E")
     await asyncio.sleep(2)
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/2fabd1c33e888e0533891.jpg",
+        photo=f"https://te.legra.ph/file/1500aa6ece4b86aea9021.jpg",
         caption=f"""━━━━━━━━━━━━━━━━━━━━━━━━
 💥 A ᴘᴏᴡᴇʀғᴜʟ ᴀɪ ʙᴏᴛ
 ᴏғ ♻️ ʟᴇɢᴇɴᴅ ɢᴏᴅғᴀᴛʜᴇʀ 🔥
