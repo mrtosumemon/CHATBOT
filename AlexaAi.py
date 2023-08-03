@@ -58,10 +58,10 @@ async def chatbot(client, message):
 ┏━━━━━━━━━━━━━━━━━┓
 ┣★ ᴄʀᴇᴀᴛᴇʀ [ɢᴏᴅғᴀᴛʜᴇʀ](https://t.me/your_godfather_xd)
 ┣★ ʜᴇᴀʀᴛ ᴜs  [ʜᴇᴀʀᴛ ❤️](https://t.me/ABOUT_GODFATHER/281)
-┣★ ʙᴏᴛ ᴜᴘᴅᴀᴛᴇs [ᴏᴜʀ ᴏᴛʜᴇʀ ʙᴏᴛs](https://t.me/Incricible_music_support)
+┣★ ʙᴏᴛ ᴜᴘᴅᴀᴛᴇs [ᴏᴜʀ ᴏᴛʜᴇʀ ʙᴏᴛs](https://t.me/The_Incricible)
 ┣★ ɪɴᴄʀɪᴄɪʙʟᴇ ғᴇᴅ [ғᴇᴅ ʟᴏɢs](https://t.me/INCRICIBLE_FED)
-┣★ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/mrtosumemon/CHATBOT)
-┣★ ɴᴇᴛᴡᴏʀᴋ [ɪɴᴄʀɪᴄɪʙʟᴇ](https://t.me/INCRICIBLE)
+┣★ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/The_Incricible/24)
+┣★ ᴄʜᴀᴛɢʀᴏᴜᴘ [ɪɴᴄʀɪᴄɪʙʟᴇ](https://t.me/INCRICIBLE)
 ┗━━━━━━━━━━━━━━━━━┛
 💞 
 IF HAVE ANY QUESTION THEN CONTACT » TO » MY » [OWNER] @INCRICIBLE""",
